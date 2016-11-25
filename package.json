@@ -1,0 +1,19 @@
+{
+  "name": "i_node_this",
+  "version": "1.0.0",
+  "description": "Revisiting Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JosephPena/I_Node_This.git"
+  },
+  "author": "JosephPena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JosephPena/I_Node_This/issues"
+  },
+  "homepage": "https://github.com/JosephPena/I_Node_This#readme"
+}
